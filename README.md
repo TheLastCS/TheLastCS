@@ -1,9 +1,9 @@
-<div align="center" style="height: 320px; width: 100%;">
-  <img align="center" src="Images/Header.gif" alt="thelast22" style='height: 100%; width: 100%; object-fit: contain'/>
+<div align="center">
+  <img align="center" src="Images/Relax.gif" alt="thelast22" style='height: 100%; width: 100%; object-fit: contain'/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Christian Stewart</h1>
-<h3 align="center">A hardworking and emerging developer from the Philippines.</h3>
+<h3 align="center">An emerging developer from the Philippines.</h3>
 <p align="center">I am currently a 3rd Year Computer Science Student from the University of San Carlos</p>
 
 <div align="center">
