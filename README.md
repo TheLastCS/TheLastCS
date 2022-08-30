@@ -50,6 +50,21 @@
   <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TheLast22&theme=vue-dark&border=4ECCDD&fire=4ECCDD" alt="thelast22" /></p>
 </div>
 
+<div align="center">
+  <hr width="700px">
+</div>
+
+<div align="center">
+  <h3 align="center">Work Samples</h3>
+  <p><img align="center" src="Images/Budiga.png" alt="thelast22" /></p>
+  <p><img align="center" src="Images/Jutsu.png" alt="thelast22" /></p>
+  <p><img align="center" src="Images/Task Manager.png" alt="thelast22" /></p>
+  <p><img align="center" src="Images/Electroworx.png" alt="thelast22" /></p>
+  <p><img align="center" src="Images/AppleCo.png" alt="thelast22" /></p>
+</div>
+
+
+
 <!--
 **TheLast22/TheLast22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
