@@ -60,7 +60,7 @@
 
 <div align="center">
   <h3 align="center">Resume</h3>
-  [Resume V.2.pdf](https://github.com/TheLast22/TheLast22/files/9571291/Resume.V.2.pdf)
+  <a href="https://github.com/TheLast22/TheLast22/files/9571291/Resume.V.2.pdf">Download File</a>
 </div>
 
 <div align="center">
