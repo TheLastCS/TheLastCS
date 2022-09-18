@@ -60,9 +60,14 @@
 
 <div align="center">
   <h3 align="center">Resume</h3>
-  <a href="https://github.com/TheLast22/TheLast22/files/9571291/Resume.V.2.pdf">Download File</a>
-  <embed src="/PDF/Resume.V.2.pdf" type="application/pdf">
-  <a href="https://github.com/TheLast22/TheLast22/blob/main/PDF/Resume%20V.2.pdf" target="_blank">Stewart Resume</a>
+  <div align="left">
+    <a href="https://github.com/TheLast22/TheLast22/files/9571291/Profile.pdf">Download File</a>
+  </div>
+  <div align="right">
+    <a href="https://github.com/TheLast22/TheLast22/blob/main/PDF/Profile.pdf" target="_blank">Stewart Resume</a>
+  </div>
+  <p><img align="center" src="Images/Profile.png" alt="thelast22" /></p>
+  
 </div>
 
 <div align="center">
