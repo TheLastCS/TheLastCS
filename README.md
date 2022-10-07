@@ -32,7 +32,7 @@
 
 <div align="center">
   <h3 align="center">Top Languages</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLast22&layout=compact&langs_count=8&theme=blux" alt="thelast22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLast22&layout=compact&langs_count=8&theme=tokyonight" alt="thelast22" /></p>
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@
 
 <div align="center">
   <h3 align="center">Github Stats</h3>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLast22&show_icons=true&theme=blux" alt="thelast22" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLast22&show_icons=true&theme=tokyonight" alt="thelast22" /></p>
   
   
 </div>
@@ -53,7 +53,7 @@
 
 <div align="center">
   <h3 align="center">Additional Stats</h3>
-  <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=TheLast22&theme=blux" alt="thelast22" /></p>
+  <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=TheLast22&theme=tokyonight" alt="thelast22" /></p>
 </div>
 
 <div align="center">
