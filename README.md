@@ -53,7 +53,7 @@
 
 <div align="center">
   <h3 align="center">Additional Stats</h3>
-  <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=TheLast22&theme=tokyonight" alt="thelast22" /></p>
+  <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=TheLast22&theme=tokyonight" alt="thelast22" /></p>
 </div>
 
 <div align="center">
