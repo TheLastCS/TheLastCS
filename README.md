@@ -63,7 +63,7 @@
 <div align="center">
   <h3 align="center">Resume</h3>
   <a href="https://github.com/TheLast22/TheLast22/files/9571291/Profile.pdf" >Download File</a>
-  <p><img align="center" src="Images/Budiga.png" alt="thelast22" /></p>
+  <p><img align="center" src="Images/Profile.png" alt="thelast22" /></p>
   <a href="https://github.com/TheLast22/TheLast22/blob/main/PDF/Profile.pdf" target="_blank" >Stewart Resume</a>
   
 </div>
