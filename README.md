@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Christian Stewart</h1>
 <h3 align="center">An emerging developer from the Philippines.</h3>
-<p align="center">I am currently a 3rd Year Computer Science Student from the University of San Carlos. Focused Mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, C#, and Xamarin have also been a part of my projects.</p>
+<p align="center">I am currently a 3rd Year Computer Science Student from the University of San Carlos. Focused Mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, C#, and Xamarin have also been a part of my projects. Traditional and Digital graphics are within my capabilities.</p>
 
 <div align="center">
   <hr width="500px">
