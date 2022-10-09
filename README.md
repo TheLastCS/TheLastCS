@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Christian Stewart</h1>
 <h3 align="center">An emerging developer from the Philippines.</h3>
-<p align="center">I am currently a 3rd Year Computer Science Student from the University of San Carlos</p>
+<p align="center">I am currently a 3rd Year Computer Science Student from the University of San Carlos. Focused Mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, C#, and Xamarin have also been a part of my projects. Traditional and Digital graphics are within my capabilities.</p>
 
 <div align="center">
   <hr width="500px">
@@ -32,7 +32,7 @@
 
 <div align="center">
   <h3 align="center">Top Languages</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLast22&layout=compact&langs_count=8&theme=vue-dark" alt="thelast22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLast22&layout=compact&langs_count=8&theme=tokyonight" alt="thelast22" /></p>
 </div>
 
 <div align="center">
@@ -41,7 +41,9 @@
 
 <div align="center">
   <h3 align="center">Github Stats</h3>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLast22&show_icons=true&theme=vue-dark" alt="thelast22" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLast22&show_icons=true&theme=tokyonight" alt="thelast22" /></p>
+  
+  
 </div>
 
 
@@ -51,7 +53,7 @@
 
 <div align="center">
   <h3 align="center">Additional Stats</h3>
-  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TheLast22&theme=vue-dark&border=4ECCDD&fire=4ECCDD" alt="thelast22" /></p>
+  <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=TheLast22&theme=tokyonight" alt="thelast22" /></p>
 </div>
 
 <div align="center">
@@ -94,4 +96,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- github stats will only update when making changes to profile ReadMe
 -->
