@@ -72,7 +72,10 @@
 </div>
 
 <div align="center">
-  <a href="https://christianstewart-portfolio.herokuapp.com/" target="_blank" >My Website</a> || 
+  
+  ![Website](https://img.shields.io/website?label=Website&url=https%3A%2F%2Fchristianstewart-portfolio.herokuapp.com%2F)
+  <a href="https://christianstewart-portfolio.herokuapp.com/" target="_blank" >My Website</a>
+  ![Website](https://img.shields.io/website?color=blue&label=Portfolio&url=https%3A%2F%2Fchristianstewart.herokuapp.com%2F)
   <a href="https://christianstewart.herokuapp.com/" target="_blank" >Mobile Website</a>
   
   <h3 align="center">Resume</h3>
