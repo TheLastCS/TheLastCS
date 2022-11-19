@@ -79,9 +79,7 @@
   <a href="https://christianstewart.herokuapp.com/" target="_blank" >Mobile Website</a>
   
   <h3 align="center">Resume</h3>
-  <a href="https://github.com/TheLast22/TheLast22/files/9571291/Profile.pdf" >Download File</a>
-  <p><img align="center" src="Images/Profile.png" alt="thelast22" /></p>
-  <a href="https://github.com/TheLast22/TheLast22/blob/main/PDF/Profile.pdf" target="_blank" >Stewart Resume</a>
+  <a href="https://christianstewart-resume.herokuapp.com/" target="" >Download File</a>
   
 </div>
 
