@@ -79,8 +79,9 @@
   <a href="https://christianstewart.herokuapp.com/" target="_blank" >Mobile Website</a>
   
   <h3 align="center">Resume</h3>
-  ![Website](https://img.shields.io/website?color=blue&label=Portfolio&url=https%3A%2F%2Fchristianstewart-resume.herokuapp.com%2F)
-  <a href="https://christianstewart-resume.herokuapp.com/" target="_blank" >Download File</a>
+  
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fchristianstewart-resume.herokuapp.com%2F)
+  <a href="https://christianstewart-resume.herokuapp.com/" target="_blank" >Resume / CV</a>
   
 </div>
 
