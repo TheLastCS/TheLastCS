@@ -73,7 +73,8 @@
 
 <div align="center">
   
-  https://img.shields.io/website?url=https%3A%2F%2Fthelast22.github.io%2F
+  <img alt="Website" src="https://img.shields.io/website?color=blue&style=for-the-badge&up_message=Active&url=https%3A%2F%2Fthelast22.github.io%2F">
+  
   <a href="https://thelast22.github.io/" target="_blank" >Personal Portfolio Website</a>
   
 </div>
