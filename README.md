@@ -73,15 +73,8 @@
 
 <div align="center">
   
-  ![Website](https://img.shields.io/website?label=Website&url=https%3A%2F%2Fchristianstewart-portfolio.herokuapp.com%2F)
-  <a href="https://christianstewart-portfolio.herokuapp.com/" target="_blank" >My Website</a>
-  ![Website](https://img.shields.io/website?color=blue&label=Portfolio&url=https%3A%2F%2Fchristianstewart.herokuapp.com%2F)
-  <a href="https://christianstewart.herokuapp.com/" target="_blank" >Mobile Website</a>
-  
-  <h3 align="center">Resume</h3>
-  
-  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fchristianstewart-resume.herokuapp.com%2F)
-  <a href="https://christianstewart-resume.herokuapp.com/" target="_blank" >Resume / CV</a>
+  https://img.shields.io/website?url=https%3A%2F%2Fthelast22.github.io%2F
+  <a href="https://thelast22.github.io/" target="_blank" >Personal Portfolio Website</a>
   
 </div>
 
