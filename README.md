@@ -1,5 +1,7 @@
 <div align="center">
-  <img align="center" src="Images/Relax.gif" alt="thelast22" style='height: 100%; width: 100%; object-fit: contain'/>
+  
+  ![Relax GIF](https://github.com/TheLast22/TheLast22/blob/main/Images/Relax.gif)
+  
   <hr>
 </div>
 
