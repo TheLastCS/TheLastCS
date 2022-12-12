@@ -146,15 +146,19 @@
   <h2 align="center">Work Samples</h2>
   <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
     <tr>
-      <td><img align="center" src="Images/Budiga.png" alt="thelast22" /></td>
-      <td><img align="center" src="Images/Jutsu.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/1.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/2.png" alt="thelast22" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="Images/Task Manager.png" alt="thelast22" /></td>
-      <td><img align="center" src="Images/Electroworx.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/3.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/4.png" alt="thelast22" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="Images/AppleCo.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/5.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/6.png" alt="thelast22" /></td>
+    </tr>
+    <tr>
+      <td><img align="center" src="Images/7.png" alt="thelast22" /></td>
       <td></td>
     </tr>
   </table>
