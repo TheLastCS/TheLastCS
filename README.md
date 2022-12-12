@@ -95,7 +95,7 @@
     <tr>
       <td><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
       <td><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></td>
-      <td><img src=""/></td>
+      <td></td>
       <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
     </tr>
     <tr>
