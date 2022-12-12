@@ -101,56 +101,34 @@
     <tr>
       <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></td>
       <td><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/></td>
-      <td><img src=""/></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></td>
       <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-      <td><img src=""/></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/></td>
       <td><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></td>
-      <td><img src=""/></td>
+      <td></td>
     </tr>
     <tr>
-      <td><img src=""/></td>
+      <td></td>
       <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
-      <td><img src=""/></td>
-    </tr>
-    <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-    </tr>
-    <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-    </tr>
-    <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-    </tr>
-    <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-    </tr>
-    <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td></td>
+      <td></td>
     </tr>
   </table>
 </div>
 
-<div align="left">
-  <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<h2 align="center">Personal Stats</h2>
+<div align="center">
+  <table align="center" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
     <tr>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLast22&show_icons=true&theme=tokyonight" alt="thelast22" /></td>
-      <td><h3 align="center">Some Personal Stats</h3></td>
     </tr>
   </table>
   
