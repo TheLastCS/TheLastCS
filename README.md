@@ -21,9 +21,9 @@
 
   ![GitHub last commit](https://img.shields.io/github/last-commit/TheLast22/TheLast22?color=informational&label=Github&logo=github&style=for-the-badge)
   ![GitHub User's stars](https://img.shields.io/github/stars/TheLast22?label=User%20Stars&logo=github&style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/TheLast22?logo=GitHub&style=social)
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ1Wu4srK7VvsEzrwzAiskg?style=social)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/Stewart_ca8?logo=Twitter&style=social)
+  ![GitHub followers](https://img.shields.io/github/followers/TheLast22?logo=github&style=for-the-badge)
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCQ1Wu4srK7VvsEzrwzAiskg?color=informational&logo=youtube&style=for-the-badge)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/Stewart_ca8?color=informational&logo=twitter&style=for-the-badge)
 
 </div>
 
