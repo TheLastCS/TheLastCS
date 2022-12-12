@@ -2,17 +2,17 @@
   
   ![Relax GIF](https://github.com/TheLast22/TheLast22/blob/main/Images/Relax.gif)
   
-  <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/TheLast22/TheLast22/blob/main/Images/youtube.svg"/></a>
+  <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg"><img width="32px" alt="Youtube" title="Youtube" src="/Images/youtube.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fb.com//stewart.ca.8"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/TheLast22/TheLast22/blob/main/Images/facebook.svg"/></a>
+  <a href="https://fb.com//stewart.ca.8"><img width="32px" alt="Facebook" title="Facebook" src="/Images/facebook.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/stewart.ca8"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/TheLast22/TheLast22/blob/main/Images/instagram.svg"/></a>
+  <a href="https://instagram.com/stewart.ca8"><img width="32px" alt="Instagram" title="Instagram" src="/Images/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/TheLast22/TheLast22/blob/main/Images/twitter.svg"/></a>
+  <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="/Images/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:christianstewart5111@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/TheLast22/TheLast22/blob/main/Images/gmail.svg"/></a>
+  <a href="mailto:christianstewart5111@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="/Images/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://codepen.io/thelast22"><img width="32px" alt="Codepen" title="Codepen" src="https://github.com/TheLast22/TheLast22/blob/main/Images/codepen.svg"/></a>
+  <a href="https://codepen.io/thelast22"><img width="32px" alt="Codepen" title="Codepen" src="/Images/codepen.svg"/></a>
   
   <hr>
 </div>
@@ -42,9 +42,9 @@
 
 - 👨‍💻 All of my projects are available on my github and portfolio(available below)
 
-- 💬 Ask me about **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
+- 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
 
-- 📫 Reach me out at **christianstewart5111@gmail.com**
+- 📫 How to reach me: **christianstewart5111@gmail.com**
 
 </details>
 
