@@ -2,13 +2,25 @@
   
   ![Relax GIF](https://github.com/TheLast22/TheLast22/blob/main/Images/Relax.gif)
   
+  <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/TheLast22/TheLast22/blob/main/Images/youtube.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://fb.com//stewart.ca.8"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/TheLast22/TheLast22/blob/main/Images/facebook.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/stewart.ca8"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/TheLast22/TheLast22/blob/main/Images/instagram.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/TheLast22/TheLast22/blob/main/Images/twitter.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:christianstewart5111@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/TheLast22/TheLast22/blob/main/Images/gmail.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://codepen.io/thelast22"><img width="32px" alt="Codepen" title="Codepen" src="https://github.com/TheLast22/TheLast22/blob/main/Images/codepen.svg"/></a>
+  
   <hr>
 </div>
 
 <div align="center">
 
-  ![GitHub last commit](https://img.shields.io/github/last-commit/TheLast22/TheLast22?logo=GitHub)
-  ![GitHub User's stars](https://img.shields.io/github/stars/TheLast22?style=social)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/TheLast22/TheLast22?color=informational&label=Github&logo=github&style=for-the-badge)
+  ![GitHub User's stars](https://img.shields.io/github/stars/TheLast22?label=User%20Stars&logo=github&style=for-the-badge)
   ![GitHub followers](https://img.shields.io/github/followers/TheLast22?logo=GitHub&style=social)
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ1Wu4srK7VvsEzrwzAiskg?style=social)
   ![Twitter Follow](https://img.shields.io/twitter/follow/Stewart_ca8?logo=Twitter&style=social)
@@ -19,21 +31,25 @@
 <h3 align="center">An emerging developer from the Philippines.</h3>
 <p align="center">I am currently a 3rd Year Computer Science Student from the University of San Carlos. Focused Mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, C#, and Xamarin have also been a part of my projects. Traditional and Digital graphics are within my capabilities.</p>
 
+<details>
+  <summary>🧑 More about Me!</summary>
+
+- 🔭 I’m currently on a quest to build **amazing** things
+
+- 🌱 I’m currently learning **REST API and MERN Stack** 🤓
+
+- 🤝 I’m looking for help with **Learning about Flutter & React Native**
+
+- 👨‍💻 All of my projects are available on my github and portfolio(available below)
+
+- 💬 Ask me about **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
+
+- 📫 Reach me out at **christianstewart5111@gmail.com**
+
+</details>
+
 <div align="center">
   <hr width="400px">
-</div>
-
-<h3 align="center">Connect with me:</h3>
-  <p align="center">
-  <a href="https://codepen.io/thelast22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thelast22" height="30" width="40" /></a>
-  <a href="https://twitter.com/stewart_ca8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stewart_ca8" height="30" width="40" /></a>
-  <a href="https://fb.com//stewart.ca.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christian stewart" height="30" width="40" /></a>
-  <a href="https://instagram.com/stewart.ca8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stewart.ca8" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the last" height="30" width="40" /></a>
-</p>
-
-<div align="center">
-  <hr width="600px">
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
