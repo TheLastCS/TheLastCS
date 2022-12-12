@@ -13,8 +13,7 @@
   <a href="mailto:christianstewart5111@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="/Images/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://codepen.io/thelast22"><img width="32px" alt="Codepen" title="Codepen" src="/Images/codepen.svg"/></a>
-  
-  <hr>
+
 </div>
 
 <div align="center">
@@ -32,6 +31,8 @@
   <a href="https://thelast22.github.io/" target="_blank">
     <img src="https://img.shields.io/website?down_color=red&label=Stewart&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelast22.github.io%2F"/>
   </a>
+  
+  <h3>Profile Views<br><img alt="visitors counter" src="https://profile-counter.glitch.me/TheLast22/count.svg"></h3>
   
 </div>
 
@@ -56,14 +57,105 @@
 
 </details>
 
-<div align="center">
-  <hr width="400px">
+<br>
+
+<h2 align="center">Tech Stack</h2>
+<div align="center"> 
+  <table align="center" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <th>Framework</th>
+      <th>Library</th>
+      <th>Backend</th>
+      <th>Design</th>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></td>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+    </tr>
+  </table>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<h2 align="center">Frameworks</h2>
 
-
+![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ChakraUI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 <div align="left">
   <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
@@ -81,17 +173,24 @@
   </table>
 </div>
 
-<div align="center">
-  <hr width="400px">
-</div>
+<br>
 
 <div align="center">
-  <h3 align="center">Work Samples</h3>
-  <p><img align="center" src="Images/Budiga.png" alt="thelast22" /></p>
-  <p><img align="center" src="Images/Jutsu.png" alt="thelast22" /></p>
-  <p><img align="center" src="Images/Task Manager.png" alt="thelast22" /></p>
-  <p><img align="center" src="Images/Electroworx.png" alt="thelast22" /></p>
-  <p><img align="center" src="Images/AppleCo.png" alt="thelast22" /></p>
+  <h2 align="center">Work Samples</h2>
+  <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+    <tr>
+      <td><img align="center" src="Images/Budiga.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/Jutsu.png" alt="thelast22" /></td>
+    </tr>
+    <tr>
+      <td><img align="center" src="Images/Task Manager.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/Electroworx.png" alt="thelast22" /></td>
+    </tr>
+    <tr>
+      <td><img align="center" src="Images/AppleCo.png" alt="thelast22" /></td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 
