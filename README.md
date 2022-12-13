@@ -49,7 +49,7 @@
 
 - 🤝 I’m looking for help with **Learning about Flutter & React Native**
 
-- 👨‍💻 All of my projects are available on my github and portfolio(available below)
+- 👨‍💻 All of my projects are available on my github and portfolio <a href="https://thelast22.github.io/" target="_blank">here</a>
 
 - 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
 
