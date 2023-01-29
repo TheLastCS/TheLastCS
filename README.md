@@ -166,7 +166,7 @@
     </tr>
     <tr>
       <td><img align="center" src="Images/7.png" alt="thelast22" /></td>
-      <td></td>
+      <td><img align="center" src="Images/8.png" alt="thelast22" /></td>
     </tr>
   </table>
 </div>
