@@ -6,7 +6,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://fb.com//stewart.ca.8"><img width="32px" alt="Facebook" title="Facebook" src="/Images/facebook.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/stewart.ca8"><img width="32px" alt="Instagram" title="Instagram" src="/Images/instagram.svg"/></a>
+  <a href="https://www.instagram.com/tianthonyyy"><img width="32px" alt="Instagram" title="Instagram" src="/Images/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="/Images/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
