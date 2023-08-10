@@ -38,14 +38,14 @@
 
 <h1 align="center">Hi 👋, I'm Christian Stewart</h1>
 <h3 align="center">An emerging developer from the Philippines.</h3>
-<p align="center">I am currently a 3rd Year Computer Science Student from the University of San Carlos. Focused Mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, Svelte, & Flutter are my current development choices. Traditional and Digital graphics are within my capabilities.</p>
+<p align="center">I am currently an incoming 4th Year Computer Science Student from the University of San Carlos. Focused mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, Svelte, & Flutter are my current development choices (a little rusty but I can manage!). Traditional and Digital graphics are within my capabilities.</p>
 
 <details>
   <summary>🧑 More about Me!</summary>
 
 - 🔭 I’m currently on a quest to build **amazing** things
 
-- 🌱 I’m currently learning **REST API and MERN Stack** 🤓
+- 🌱 I’m currently learning **Svelte Framework** 🤓
 
 - 🤝 I’m looking for help with **Learning about Flutter & React Native**
 
