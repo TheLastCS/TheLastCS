@@ -8,8 +8,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/tianthonyyy"><img width="32px" alt="Instagram" title="Instagram" src="/Images/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="/Images/twitter.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:christianstewart5111@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="/Images/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://codepen.io/thelast22"><img width="32px" alt="Codepen" title="Codepen" src="/Images/codepen.svg"/></a>
@@ -38,7 +36,7 @@
 
 <h1 align="center">Hi 👋, I'm Christian Stewart</h1>
 <h3 align="center">An emerging developer from the Philippines.</h3>
-<p align="center">I am currently an incoming 4th Year Computer Science Student from the University of San Carlos. Focused mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, Svelte, & Flutter are my current development choices (a little rusty but I can manage!). Traditional and Digital graphics are within my capabilities.</p>
+<p align="center">I am currently an fresh graduate of Computer Science from the University of San Carlos. Focused mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, Svelte, & Flutter are my current development choices (a little rusty but I can manage!). Traditional and Digital graphics are within my capabilities.</p>
 
 <details>
   <summary>🧑 More about Me!</summary>
@@ -53,7 +51,7 @@
 
 - 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
 
-- 📫 How to reach me: **christianstewart5111@gmail.com**
+- 📫 How to reach me: **christianstewart5111@gmail.com** or call me **09430877544**
 
 </details>
 
