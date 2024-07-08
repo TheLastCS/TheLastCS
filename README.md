@@ -36,7 +36,7 @@
 
 <h1 align="center">Hi 👋, I'm Christian Stewart</h1>
 <h3 align="center">An emerging developer from the Philippines.</h3>
-<p align="center">I am currently an fresh graduate of Computer Science from the University of San Carlos. Focused mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, Svelte, & Flutter are my current development choices (a little rusty but I can manage!). Traditional and Digital graphics are within my capabilities.</p>
+<p align="center">Motivated and technically proficient Computer Science graduate with hands-on experience in quality assurance, natural language processing, and software development. Demonstrated history of developing innovative solutions, leading complex projects, and delivering results in academic and internship settings. Proven ability to work collaboratively in team environments and a strong commitment to continuous learning and professional growth.</p>
 
 <details>
   <summary>🧑 More about Me!</summary>
