@@ -16,9 +16,9 @@
 
 <div align="center">
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/TheLast22/TheLast22?color=informational&label=Github&logo=github&style=for-the-badge)
-  ![GitHub User's stars](https://img.shields.io/github/stars/TheLast22?label=User%20Stars&logo=github&style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/TheLast22?logo=github&style=for-the-badge)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/TheLastCS/TheLastCS?color=informational&label=Github&logo=github&style=for-the-badge)
+  ![GitHub User's stars](https://img.shields.io/github/stars/TheLastCS?label=User%20Stars&logo=github&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/TheLastCS?logo=github&style=for-the-badge)
   
   <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg" target="_blank">
     <img src="https://img.shields.io/youtube/channel/views/UCQ1Wu4srK7VvsEzrwzAiskg?color=informational&logo=youtube&style=for-the-badge"/>
@@ -26,8 +26,8 @@
   <a href="https://twitter.com/stewart_ca8" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Stewart_ca8?color=informational&logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://thelast22.github.io/" target="_blank">
-    <img src="https://img.shields.io/website?down_color=red&label=Stewart&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelast22.github.io%2F"/>
+  <a href="https://thelastcs.github.io/" target="_blank">
+    <img src="https://img.shields.io/website?down_color=red&label=Stewart&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelastcs.github.io%2F"/>
   </a>
   
   <h3>Profile Views<br><img alt="visitors counter" src="https://profile-counter.glitch.me/TheLast22/count.svg"></h3>
