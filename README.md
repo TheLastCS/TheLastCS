@@ -41,19 +41,43 @@
 <details>
   <summary>🧑 More about Me!</summary>
 
-- 🔭 I’m currently on a quest to build **amazing** things
-
-- 🌱 I’m currently learning **Svelte Framework** 🤓
-
-- 🤝 I’m looking for help with **Learning about Flutter & React Native**
-
-- 👨‍💻 All of my projects are available on my github and portfolio <a href="https://thelast22.github.io/" target="_blank">here</a>
-
-- 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
-
-- 📫 How to reach me: **christianstewart5111@gmail.com** or call me **09430877544**
+- 📚 I’m currently on a quest to build amazing things
+- 🌱 I’m currently learning Svelte Framework
+- 🤝 I’m looking for help with Learning about Flutter & React Native
+- 📂 All of my projects are available on my [GitHub](https://github.com/thelastcs) and [portfolio](https://thelastcs.github.io)
+- 💬 Ask me about: UI/UX Design, Product Design, Fullstack Development, and Mobile Development
+- 📫 How to reach me: christianstewart5111@gmail.com or call me at +63 943 087 7544
 
 </details>
+
+ <h3>Skills</h3>
+        <ul>
+            <li><strong>Programming Languages</strong>: C#, JavaScript, PHP, Python</li>
+            <li><strong>Web Development</strong>: HTML, CSS, JavaScript, Bootstrap, VueJS, Laravel</li>
+            <li><strong>Software Development</strong>: .NET, ASP.NET, SQL Server, MySQL</li>
+            <li><strong>Tools and Technologies</strong>: Microsoft Visual Studio, Figma, Illustrator, Photoshop</li>
+            <li><strong>Other Skills</strong>: Project Management, Quality Assurance, Content Management Systems</li>
+        </ul>
+
+## Experience
+### Kicks4Kings (2021)
+- **Role**: Full-stack Developer
+- **Responsibilities**: Designed UI/UX modules using Figma, developed an e-commerce website using HTML, CSS, JavaScript, and Bootstrap.
+
+### Budiga: QR code POS System for MSMEs (2022)
+- **Role**: Full-stack Developer
+- **Responsibilities**: Created layout for all screens, developed system using .NET, C#, and MySQL.
+
+### Sana All Agency (2022)
+- **Role**: Full-stack Developer
+- **Responsibilities**: Designed UI/UX modules using Figma, Illustrator, and Photoshop, developed content management system using VueJS and Laravel.
+
+## Education
+- **University of San Carlos**: Bachelor of Science in Computer Science
+
+## Contact
+- 📧 christianstewart5111@gmail.com
+- 📱 +63 943 087 7544
 
 <br>
 
@@ -133,14 +157,14 @@
 <div align="center">
   <table align="center" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLast22&show_icons=true&theme=tokyonight" alt="thelast22" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLastcs&show_icons=true&theme=tokyonight" alt="thelast22" /></td>
     </tr>
   </table>
   
   <table align="center" cellspacing="0" cellpadding="0" width="100%">
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLast22&layout=compact&langs_count=8&theme=tokyonight" alt="thelast22" /></td>
-      <td><img align="center" src="https://streak-stats.demolab.com?user=TheLast22&theme=tokyonight" alt="thelast22" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastcs&layout=compact&langs_count=8&theme=tokyonight" alt="thelast22" /></td>
+      <td><img align="center" src="https://streak-stats.demolab.com?user=TheLastcs&theme=tokyonight" alt="thelast22" /></td>
     </tr>
   </table>
 </div>
