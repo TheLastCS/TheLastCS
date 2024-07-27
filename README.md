@@ -39,7 +39,7 @@
 <p align="center">Motivated and technically proficient Computer Science graduate with hands-on experience in quality assurance, natural language processing, and software development. Demonstrated history of developing innovative solutions, leading complex projects, and delivering results in academic and internship settings. Proven ability to work collaboratively in team environments and a strong commitment to continuous learning and professional growth.</p>
 
 <details>
-  <summary>🧑 More about Me!</summary>
+  <summary><h3>🧑 More about Me!</h3></summary>
 
 - 📚 I’m currently on a quest to build amazing things
 - 🌱 I’m currently learning Svelte Framework
@@ -50,7 +50,8 @@
 
 </details>
 
- <h3>Skills</h3>
+<details>
+ <summary><h3>🏆 Skills</h3></summary>
         <ul>
             <li><strong>Programming Languages</strong>: C#, JavaScript, PHP, Python</li>
             <li><strong>Web Development</strong>: HTML, CSS, JavaScript, Bootstrap, VueJS, Laravel</li>
@@ -58,8 +59,11 @@
             <li><strong>Tools and Technologies</strong>: Microsoft Visual Studio, Figma, Illustrator, Photoshop</li>
             <li><strong>Other Skills</strong>: Project Management, Quality Assurance, Content Management Systems</li>
         </ul>
+</details>
 
-## Experience
+<details>
+ <summary><h3>🛠 Experience</h3></summary>
+  
 ### Kicks4Kings (2021)
 - **Role**: Full-stack Developer
 - **Responsibilities**: Designed UI/UX modules using Figma, developed an e-commerce website using HTML, CSS, JavaScript, and Bootstrap.
@@ -72,10 +76,16 @@
 - **Role**: Full-stack Developer
 - **Responsibilities**: Designed UI/UX modules using Figma, Illustrator, and Photoshop, developed content management system using VueJS and Laravel.
 
-## Education
-- **University of San Carlos**: Bachelor of Science in Computer Science
+</details>
 
-## Contact
+<details>
+ <summary><h3>🧠 Education</h3></summary>
+  
+- **University of San Carlos**: Bachelor of Science in Computer Science
+- **University of San Carlos**: Senior High School Graduate: STEM Course
+</details>
+
+## 📞Contact
 - 📧 christianstewart5111@gmail.com
 - 📱 +63 943 087 7544
 
